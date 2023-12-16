@@ -1,1 +1,5 @@
 # SNHU230
+
+The Gaming Room is a client who needed a solution for their program Draw It or Lose It, which had been developed for android and was running on that platform, but The Gaming Room wanted Draw It or Lose It to run on multiple platforms and have a web-based client. The part of developing the documentation that I did particularly well with was the recommendations at the end of the document. If I could pick one part to revise it would be the evaluation, and I would improve it by adding more details and information. 
+
+I interpretted the user's needs as them needing the client to run on multiple platforms, and to run well with the large amount of files. I implemented that in my software design by recommending a solution that would allow for development of multiple platforms, and that would run well. It is important to consider the user's needs when designing because they are the ones who will be using the software. I approached designing software as solving a puzzle. Research is very important and necessary when analyzing and designing a software application. 
